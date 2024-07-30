@@ -95,3 +95,8 @@ docker compose up -d
 ```
 
 ![image](https://github.com/user-attachments/assets/9e75b1c7-cf9f-4c7b-aa19-5825c468d9dc)
+
+
+hasil
+
+![image](https://github.com/user-attachments/assets/f469a1d8-326e-442e-b0ea-5ee7f9d2c953)
